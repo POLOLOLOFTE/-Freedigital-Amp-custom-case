@@ -56,4 +56,4 @@ components that you need to make it(half life operetaor Pls go at the last words
 
 -A screw m3 it should be 5-6mm (for of you that speaks in freedom units🫡 it's around 1/4-1/5 of an inch)
 
-(Thoose are the things that **YOU** need to have to make it but in my bem i got **MINE**)
+(Thoose are the things that **YOU** need to have to make it but in my BOM i got **MINE**)
