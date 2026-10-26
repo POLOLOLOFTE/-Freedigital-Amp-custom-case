@@ -3,7 +3,7 @@
 the compatible case with the #Free digital amp and:
 It's customizable!! just print on paper the design that you want and slap it on the front pannel!
 
-**MOUNTING:**
+## **MOUNTING:**
 
 -take the first piece and install the brass insert in the hole (by using a welder or heat) on the bottom that is uncentered and hasn't got supports
 
@@ -23,7 +23,7 @@ It's customizable!! just print on paper the design that you want and slap it on 
 
 *it's raccomanded to have at hand some hot glue and soder iron to in case adjust clerance and stop part from wiggle*
 
-**3d PRINT:**
+## **3d PRINT:**
 
 it's preatty flexible the choosing of the material, just not rubber like materials off course and materials that dose not melt at 60*C, it should be safe at 80*C
 
@@ -31,7 +31,7 @@ it need some kind of precision: around 0.2mm; and it's almost obbligatory to use
 
 **remember that it's untested**
 
-**COOL THINGS:**
+# **COOL THINGS:**
 
 -this project will be correlated to the next ones so the case is scalable so you can put multiple amplificator on top of another
 
@@ -43,17 +43,19 @@ it need some kind of precision: around 0.2mm; and it's almost obbligatory to use
 
 <img width="490" height="259" alt="Screenshot 2026-10-18 110623" src="https://github.com/user-attachments/assets/e2f6dd98-a983-499d-9fb0-77082996f2f1" />
 
-INSPIRED FROM THE STEAM MASHINE:
+# INSPIRED FROM THE STEAM MASHINE:
 <img width="75" height="61" alt="Screenshot 2026-10-13 174234" src="https://github.com/user-attachments/assets/b5a43c09-8a4c-4811-aabe-fe21dfe3e970" />
 
-**U N T E S T E D**
+# **U N T E S T E D**
 
 components that you need to make it(half life operetaor Pls go at the last words of the paragraph, thanks):
 
--The 3d printed parts(is obbligatory only the biggest but the top make more stackable, and the front pannel is for customization)
 
--A brass insert for 3d prints M3x5x4
+| Component | Notes | Estimated Price (USD) | Purchase Link |
+| :--- | :--- | :---: | :---: |
+| **3D Printed Parts**<br>(Main Body, Top, Front Panel) | Main (biggest) body is obligatory. The top piece enables stackability. The front panel allows for customization. | You can get them on craftcloud (europe) | [Craft Cloud](https://craftcloud3d.com) |
+| **Brass Heat-Set Inserts**<br>M3 x 5mm x 4mm | For make the screw stick to the plastic without making life harder | 12.33 | [Amazon](https://www.amazon.it/gp/product/B0CDH36ZMX/ref=ox_sc_act_title_6?smid=A2LZ0UUKEAXYKL&psc=1) |
+| **M3 Screws**<br>Length: 5-6mm (~1/4" - 1/5") | For securing the pcbin to the case (needing only 1) | 12.33 | [Amazon](https://www.amazon.it/Bulloni-Svasata-Rondelle-Piatta-Argento/dp/B0DQCY4MZ4/ref=asc_df_B0DQCXTXH8?mcid=033ca1d5b3cc37daa03374bbd1457055&tag=googshopit-21&linkCode=df0&hvadid=730819299271&hvpos=&hvnetw=g&hvrand=6691180352044797796&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9050654&hvtargid=pla-2406328419065&hvocijid=6691180352044797796-B0DQCXTXH8-&hvexpln=0&th=1) |
 
--A screw m3 it should be 5-6mm (for of you that speaks in freedom units🫡 it's around 1/4-1/5 of an inch)
 
 (Thoose are the things that **YOU** need to have to make it but in my BOM i got **MINE**)
