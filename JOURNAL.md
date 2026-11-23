@@ -27,7 +27,7 @@
 
 **5h**
 
-i started working on the customizable case for this amp...
+i started working on the customizable case for this amp... 
 
 ![Screenshot 2026-10-13 171531](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/7c56a932b0a5db3e0f55730890c8417d6ad0df9086903f60dfddb197fa9c95dd.png)
 
