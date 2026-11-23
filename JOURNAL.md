@@ -20,7 +20,7 @@
 4. [2026-10-16: i have done a lot of work but the main thing for me is the pcb and it's OFFICIAL i have finished it!!!!](#2026-10-16-i-have-done-a-lot-of-work-but-the-main-thing-for-)
 5. [2026-10-18: i have finished a lot of things!](#2026-10-18-i-have-finished-a-lot-of-things)
 6. [2026-11-15: i accually didn't add thoose hours to the case,](#2026-11-15-i-accually-didnt-add-thoose-hours-to-the-case)
-7. [2026-11-23: i have mesured the accual voltage of all the pins in the tda2030 and pin 2 seems a bit unstable, like a lot! idk why? still](#2026-11-23-i-have-mesured-the-accual-voltage-of-all-the-pins)
+7. [2026-11-23: i have made some deal with the #printing legion, it was hell of fun! and the price is lower over the company that i chosen before so now it's time to get this project reviewed! i hope so ngl but it wa](#2026-11-23-i-have-made-some-deal-with-the-printing-legion-it)
 
 ## Design
 
@@ -147,15 +147,12 @@ as you know if you saw another jurnal/reel of me i'm preatty new to the world of
 
 ## Design
 
-### 2026-11-23: i have mesured the accual voltage of all the pins in the tda2030 and pin 2 seems a bit unstable, like a lot! idk why? still
+### 2026-11-23: i have made some deal with the #printing legion, it was hell of fun! and the price is lower over the company that i chosen before so now it's time to get this project reviewed! i hope so ngl but it wa
 
 **1h**
 
-i have mesured the accual voltage of all the pins in the tda2030 and pin 2 seems a bit unstable, like a lot! idk why? still 
-btw i know that becose of theese two (my most precist measurament instument)
+i have made some deal with the #printing legion, it was hell of fun! and the price is lower over the company that i chosen before so now it's time to get this project reviewed! i hope so ngl but it was hard that week that i made it!
 
-![20261123_190926](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/fe62643eef18cbb3f1563bf8d92cc3b8d9861cb84e6fb503de94f0dc38c85fa2.jpg)
+![Screenshot 2026-11-23 175605](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/9d3a2661e940820c191ec2fdd8a40dd9449a22b8af9595b1b8b042a46e7f8b4b.png)
 
-and for the other project that are correlated don't worry i gor a backup plan (idk if i can say that this does not work)
-
-![20261123_190942](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/dfe93bd65bf7e7ccb5464272d4f5389ffeacf1c1fa67a294f903c8688e950ca8.jpg)
+![image](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/fcfe0999d2a0c844e3c023645fc871647ba4c54054d5fffe4e952b745bd99a5d.png)
