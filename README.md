@@ -19,7 +19,9 @@ It's customizable!! just print on paper the design that you want and slap it on 
 
 -and now just put on the top pannel (it hasn't got any laching system)
 
--opsional: print any kind of design 50x125mm and glue itto the front
+-opsional: print any kind of design 50x125mm and glue in to the front
+
+-(for trought audio and audio console assemble everything and then hot glue the interface components to the 4th piece)
 
 *it's raccomanded to have at hand some hot glue and soder iron to in case adjust clerance and stop part from wiggle*
 
@@ -27,7 +29,7 @@ It's customizable!! just print on paper the design that you want and slap it on 
 
 it's preatty flexible the choosing of the material, just not rubber like materials off course and materials that dose not melt at 60*C, it should be safe at 80*C
 
-it need some kind of precision: around 0.2mm; and it's almost obbligatory to use supports.
+it need some kind of precision: around 0.2mm; and it's raccomanded to use supports.
 
 **remember that it's untested**
 
@@ -48,14 +50,8 @@ it need some kind of precision: around 0.2mm; and it's almost obbligatory to use
 
 # **U N T E S T E D**
 
-components that you need to make it(half life operetaor Pls go at the last words of the paragraph, thanks):
-
-
 | Component | Notes | Estimated Price (USD) | Purchase Link |
 | :--- | :--- | :---: | :---: |
 | **3D Printed Parts**<br>(Main Body, Top, Front Panel) | Main (biggest) body is obligatory. The top piece enables stackability. The front panel allows for customization. | You can get them on craftcloud (europe) | [Craft Cloud](https://craftcloud3d.com) |
 | **Brass Heat-Set Inserts**<br>M3 x 5mm x 4mm | For make the screw stick to the plastic without making life harder | 12.33 | [Amazon](https://www.amazon.it/gp/product/B0CDH36ZMX/ref=ox_sc_act_title_6?smid=A2LZ0UUKEAXYKL&psc=1) |
 | **M3 Screws**<br>Length: 5-6mm (~1/4" - 1/5") | For securing the pcbin to the case (needing only 1) | 12.33 | [Amazon](https://www.amazon.it/Bulloni-Svasata-Rondelle-Piatta-Argento/dp/B0DQCY4MZ4/ref=asc_df_B0DQCXTXH8?mcid=033ca1d5b3cc37daa03374bbd1457055&tag=googshopit-21&linkCode=df0&hvadid=730819299271&hvpos=&hvnetw=g&hvrand=6691180352044797796&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9050654&hvtargid=pla-2406328419065&hvocijid=6691180352044797796-B0DQCXTXH8-&hvexpln=0&th=1) |
-
-
-(Thoose are the things that **YOU** need to have to make it but in my BOM i got **MINE**)
